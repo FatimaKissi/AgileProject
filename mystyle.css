@@ -1,13 +1,16 @@
 body{
 background-color: pink;
-opacity:0.6;
+opacity:1;
+}
+.intro{
+text-align: center;
 }
 
 .image{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 20%;
 }
 
 
