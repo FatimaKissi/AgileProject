@@ -16,7 +16,12 @@ font-family: "Times New Roman";
 .agile{
     font-family: "New Roman Times";
     text-align: center;
-    background-color: plum;
+    font-size: medium;
+    color: black;
+}
+.mani{
+    font-family: "New Roman Times";
+    text-align: center;
     font-size: medium;
     color: black;
 }
