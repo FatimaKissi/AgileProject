@@ -11,7 +11,8 @@ font-family: "Times New Roman";
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 100px;
+    height:150px;
 }
 .agile{
     font-family: "New Roman Times";
